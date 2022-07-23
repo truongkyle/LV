@@ -1,0 +1,12 @@
+{
+ "data": {
+  "name": "sathiyajith",
+  "rollno": 56,
+  "cgpa": 8.6,
+  "phonenumber": [
+   123,
+   456,
+   789
+  ]
+ }
+}
